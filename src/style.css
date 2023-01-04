@@ -30,7 +30,10 @@ body
 
 h1{
     font-size: 8rem;
-    color: #ffffff;
+    /* color: #18eddc; */
+    -webkit-background-clip: text !important;
+	-webkit-text-fill-color: transparent;
+    background: linear-gradient(96.03deg, #fb09097d 0%, #12c5dd 100%)
 }
 
 section {
